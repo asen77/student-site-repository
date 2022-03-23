@@ -10,6 +10,8 @@ View live in production at https://prof-rossetti.github.io/student-site.
 
 Fork this repo to make a copy under your own control, then clone your forked copy (for example, downloading it onto your Desktop). Locate the directory you downloaded, and open it with your file finder.
 
+Let's think about how to improve this website - specifically the image integration. 
+
 ## Usage
 
 To view the website, you can either use the file-open approach, or run a local webserver.
